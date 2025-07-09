@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Hero() {
   return (
-    <div>
+    <section id="hero">
       <motion.div
         initial={{ opacity: 0, y: 15 }}
         animate={{ opacity: 1, y: 0 }}
@@ -68,6 +68,6 @@ export default function Hero() {
           </motion.div>
         </div>
       </motion.div>
-    </div>
+    </section>
   );
 }

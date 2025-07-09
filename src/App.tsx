@@ -3,6 +3,8 @@ import Hero from "@/components/sections/hero";
 import ThemeProvider from "@/context/theme-provider";
 import Skill from "@/components/sections/skill";
 import Resume from "@/components/sections/resume";
+import Projects from "@/components/sections/projects";
+import Contact from "@/components/sections/contact";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
           <Hero />
           <Resume />
           <Skill />
+          <Projects />
+          <Contact />
         </div>
       </div>
     </ThemeProvider>

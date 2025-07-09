@@ -6,7 +6,7 @@ import ContainerMenu from "@/components/container-menu";
 
 export default function Resume() {
   return (
-    <div id="resume" className="h-full w-full">
+    <section id="resume" className="h-full w-full">
       <div className="mx-auto px-2 py-16">
         <div className="col-span-4">
           <ContainerMenu
@@ -32,7 +32,7 @@ export default function Resume() {
                             href={listItem.url}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-primary hover:text-primary-foreground"
+                            className="text-primary hover:text-orange-400"
                           >
                             {listItem.name}
                           </a>
@@ -48,6 +48,6 @@ export default function Resume() {
           ))}
         </div>
       </div>
-    </div>
+    </section>
   );
 }

@@ -16,5 +16,5 @@ export type ProjectSection = {
 };
 
 export type Project = {
-  contact: ProjectSection;
+  project: ProjectSection;
 };

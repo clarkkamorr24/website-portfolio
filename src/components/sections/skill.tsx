@@ -7,7 +7,7 @@ import ContainerMenu from "@/components/container-menu";
 
 export default function Skill() {
   return (
-    <div id="skills" className="h-full w-full">
+    <section id="skills" className="h-full w-full">
       <div className="mx-auto px-2 py-16">
         <ContainerMenu title="Skills" description="Areas of Expertise" />
         <AppSection title="What can I do">
@@ -60,6 +60,6 @@ export default function Skill() {
           </div>
         </AppSection>
       </div>
-    </div>
+    </section>
   );
 }

@@ -14,7 +14,7 @@ export default function ContainerMenu({
       initial={{ x: 0, opacity: 0 }}
       whileInView={{ x: [-250, 0], opacity: 1 }}
       transition={{ duration: 1 }}
-      className="bg-foreground mt-10 rounded-xl py-4 text-center"
+      className="bg-container-bg mt-10 rounded-xl py-4 text-center"
     >
       <span className="text-primary-foreground text-[30px] font-bold lg:text-[40px]">
         {title && (

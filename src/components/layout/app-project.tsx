@@ -1,8 +1,10 @@
 import type { ProjectItem } from "@/types/project";
 
-type AppProjectProps = ProjectItem;
+type AppProjectProps = {
+  project: ProjectItem;
+};
 
-export default function AppProject(project: AppProjectProps) {
+export default function AppProject({ project }: AppProjectProps) {
   return (
     <div className="border-light-gray bg-background overflow-hidden rounded-lg border px-4 pt-6 text-center">
       <div className="mb-3">

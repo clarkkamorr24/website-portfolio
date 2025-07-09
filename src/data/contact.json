@@ -5,29 +5,22 @@
     "contents": [
       {
         "id": 1,
-        "icon": "/contacts/viber.svg",
+        "icon": "/images/contact/viber.svg",
         "name": "Viber",
         "username": "+63 966 6525 731",
         "category": "Social Media"
       },
       {
         "id": 2,
-        "icon": "/contacts/instagram.svg",
+        "icon": "/images/contact/instagram.svg",
         "name": "Instagram",
         "username": "@clarkamorr",
         "category": "Social Media",
         "url": "https://www.instagram.com/clarkamorr/"
       },
       {
-        "id": 3,
-        "icon": "/contacts/skype.svg",
-        "name": "Skype",
-        "username": "ID: live:.cid.c900176a14131340",
-        "category": "Social Media"
-      },
-      {
         "id": 4,
-        "icon": "/contacts/facebook.svg",
+        "icon": "/images/contact/facebook.svg",
         "name": "Facebook",
         "username": "Clark Amor",
         "category": "Social Media",
@@ -35,7 +28,7 @@
       },
       {
         "id": 5,
-        "icon": "/contacts/linkedin.svg",
+        "icon": "/images/contact/linkedin.svg",
         "name": "Linkedin",
         "username": "Clark Amor",
         "category": "Social Media",
@@ -43,7 +36,7 @@
       },
       {
         "id": 6,
-        "icon": "/skills/skill-github.svg",
+        "icon": "/images/skills/github.svg",
         "name": "Github",
         "username": "Clark Amor",
         "category": "Social Media",
@@ -51,7 +44,7 @@
       },
       {
         "id": 7,
-        "icon": "/contacts/gmail.svg",
+        "icon": "/images/contact/gmail.svg",
         "name": "Gmail",
         "username": "clarkkamorr@gmail.com",
         "category": "Email",
@@ -59,7 +52,7 @@
       },
       {
         "id": 8,
-        "icon": "/contacts/location.svg",
+        "icon": "/images/contact/location.svg",
         "name": "Location",
         "username": "Legazpi, Philippines",
         "category": "location",
