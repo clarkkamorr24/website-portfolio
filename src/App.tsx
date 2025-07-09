@@ -5,8 +5,11 @@ import Skill from "@/components/sections/skill";
 import Resume from "@/components/sections/resume";
 import Projects from "@/components/sections/projects";
 import Contact from "@/components/sections/contact";
+import useFaviconThemeSync from "./hooks/useFavIconTheme";
 
 function App() {
+  useFaviconThemeSync();
+
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
       <div className="bg-background flex w-screen flex-col">
