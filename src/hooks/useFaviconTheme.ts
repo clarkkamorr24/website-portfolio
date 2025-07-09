@@ -12,7 +12,7 @@ function updateFaviconForTheme() {
   }
 }
 
-export default function useFaviconThemeSync() {
+export default function useFaviconTheme() {
   useEffect(() => {
     const observer = new MutationObserver(() => {
       updateFaviconForTheme();
