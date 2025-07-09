@@ -1,0 +1,70 @@
+{
+  "contact": {
+    "title": "Contact",
+    "description": "Chat with me through some of the contacts you can call to get acquainted.",
+    "contents": [
+      {
+        "id": 1,
+        "icon": "/contacts/viber.svg",
+        "name": "Viber",
+        "username": "+63 966 6525 731",
+        "category": "Social Media"
+      },
+      {
+        "id": 2,
+        "icon": "/contacts/instagram.svg",
+        "name": "Instagram",
+        "username": "@clarkamorr",
+        "category": "Social Media",
+        "url": "https://www.instagram.com/clarkamorr/"
+      },
+      {
+        "id": 3,
+        "icon": "/contacts/skype.svg",
+        "name": "Skype",
+        "username": "ID: live:.cid.c900176a14131340",
+        "category": "Social Media"
+      },
+      {
+        "id": 4,
+        "icon": "/contacts/facebook.svg",
+        "name": "Facebook",
+        "username": "Clark Amor",
+        "category": "Social Media",
+        "url": "https://www.facebook.com/clarkkamorr/"
+      },
+      {
+        "id": 5,
+        "icon": "/contacts/linkedin.svg",
+        "name": "Linkedin",
+        "username": "Clark Amor",
+        "category": "Social Media",
+        "url": "https://www.linkedin.com/in/clark-amor-2678b91a3/"
+      },
+      {
+        "id": 6,
+        "icon": "/skills/skill-github.svg",
+        "name": "Github",
+        "username": "Clark Amor",
+        "category": "Social Media",
+        "url": "https://github.com/clarkkamorr24"
+      },
+      {
+        "id": 7,
+        "icon": "/contacts/gmail.svg",
+        "name": "Gmail",
+        "username": "clarkkamorr@gmail.com",
+        "category": "Email",
+        "url": "mailto:clarkkamorr@gmail.com"
+      },
+      {
+        "id": 8,
+        "icon": "/contacts/location.svg",
+        "name": "Location",
+        "username": "Legazpi, Philippines",
+        "category": "location",
+        "url": "https://www.google.com/maps/place/Legazpi+City,+Albay/@13.1210653,123.6907731,12z/data=!3m1!4b1!4m6!3m5!1s0x33a101687e9bf8a7:0x305252e78d14537a!8m2!3d13.1390621!4d123.7437995!16zL20vMDFfNmh3?entry=ttu"
+      }
+    ]
+  }
+}

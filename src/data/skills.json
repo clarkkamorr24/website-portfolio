@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML 5",
+      "icon": "/images/skills/html5.svg"
+    },
+    {
+      "id": 2,
+      "name": "CSS 3",
+      "icon": "/images/skills/css3.svg"
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "icon": "/images/skills/javascript.svg"
+    },
+    {
+      "id": 4,
+      "name": "Node JS",
+      "icon": "/images/skills/node.svg"
+    },
+    {
+      "id": 5,
+      "name": "TailwindCSS",
+      "icon": "/images/skills/tailwind.svg"
+    },
+    {
+      "id": 6,
+      "name": "React JS",
+      "icon": "/images/skills/reactjs.svg"
+    },
+    {
+      "id": 7,
+      "name": "React Native",
+      "icon": "/images/skills/reactjs.svg"
+    },
+    {
+      "id": 8,
+      "name": "Next JS",
+      "icon": "/images/skills/nextjs.svg"
+    },
+    {
+      "id": 9,
+      "name": "Typescript",
+      "icon": "/images/skills/typescript.svg"
+    },
+    {
+      "id": 10,
+      "name": "Graphql",
+      "icon": "/images/skills/graphql.svg"
+    },
+    {
+      "id": 11,
+      "name": "Storybook",
+      "icon": "/images/skills/storybook.svg"
+    },
+    {
+      "id": 12,
+      "name": "Git",
+      "icon": "/images/skills/git.svg"
+    },
+    {
+      "id": 13,
+      "name": "Github",
+      "icon": "/images/skills/github.svg"
+    },
+    {
+      "id": 14,
+      "name": "Bitbucket",
+      "icon": "/images/skills/bitbucket.svg"
+    },
+    {
+      "id": 15,
+      "name": "Jira",
+      "icon": "/images/skills/jira.svg"
+    },
+    {
+      "id": 16,
+      "name": "Vscode",
+      "icon": "/images/skills/vscode.svg"
+    }
+  ]
+}

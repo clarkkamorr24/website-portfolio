@@ -121,8 +121,19 @@
   body {
     @apply bg-background text-foreground;
     font-family: var(--font-sans);
+    overflow-x: hidden;
   }
   html {
     font-family: var(--font-sans);
+  }
+}
+
+@layer components {
+  .icons {
+    filter: invert(0%);
+  }
+
+  .dark .icons {
+    filter: invert(100%);
   }
 }

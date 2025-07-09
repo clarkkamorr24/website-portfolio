@@ -1,0 +1,80 @@
+{
+  "project": {
+    "title": "Project",
+    "description": "some of the projects that I've worked on to completion with some of the technologies",
+    "contents": [
+      {
+        "id": 1,
+        "image": "/vans-ecommerce.png",
+        "name": "Ecommerce Vans Store",
+        "stack": "Next JS, TailwindCSS, Typescript, Sanity, Stripe",
+        "category": "Personal Project",
+        "url": "https://shoevans-ecommerce.vercel.app"
+      },
+      {
+        "id": 2,
+        "image": "/repitsocial.png",
+        "name": "REPIT SOCIAL",
+        "stack": "React Native, Node JS, AWS, PHP, Laravel",
+        "category": "Work Project",
+        "url": "https://repitsocial.com/"
+      },
+      {
+        "id": 3,
+        "image": "/toktokbills.png",
+        "name": "Toktok Bills Module",
+        "stack": "React Native, Node JS, Typescript, GraphQL",
+        "category": "Work Project",
+        "url": "https://toktok.ph/products#pr-bills"
+      },
+      {
+        "id": 4,
+        "image": "/toktokload.png",
+        "name": "Toktok Load Module",
+        "stack": "React Native, Node JS, Typescript, GraphQL",
+        "category": "Work Project",
+        "url": "https://toktok.ph/products#pr-load"
+      },
+      {
+        "id": 5,
+        "image": "/handraiser.png",
+        "name": "Handraiser / Group Projects",
+        "stack": "React JS, ExpressJs, Docker, Postgres, Node JS, Socket.IO, Material UI",
+        "category": "Work Project",
+        "url": "https://github.com/Handraiser-Group-Project-Team-4/handraiser-project/tree/master"
+      },
+      {
+        "id": 6,
+        "image": "/goodlife.png",
+        "name": "Goodlife",
+        "stack": "React Native, React JS, Next JS, Node JS, Contentful CMS, Storybook, GraphQL, Typescript",
+        "category": "Work Project",
+        "url": "https://www.goodlife.com.au/"
+      },
+      {
+        "id": 7,
+        "image": "/fitnessfirst.png",
+        "name": "Fitness First",
+        "stack": "React Native, React JS, Next JS, Node JS, Contentful CMS, Storybook, GraphQL, Typescript",
+        "category": "Work Project",
+        "url": "https://join.fitnessfirst.com.au/"
+      },
+      {
+        "id": 8,
+        "image": "/evento.png",
+        "name": "Evento",
+        "stack": "Next JS, TailwindCSS, Typescript, Prisma, PostgreSQL",
+        "category": "Personal Project",
+        "url": "https://evento-proj.vercel.app/"
+      },
+      {
+        "id": 9,
+        "image": "/petsoft.png",
+        "name": "PetSoft",
+        "stack": "Next JS, TailwindCSS, Typescript, Prisma, PostgreSQL, Stripe, React-hook-form, Zod",
+        "category": "Personal Project",
+        "url": "https://clark-petsoft.vercel.app/"
+      }
+    ]
+  }
+}

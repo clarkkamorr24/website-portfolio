@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Ui Ux design",
+      "description": "I specialize in crafting visually pleasing and user-friendly digital experiences to enhance user satisfaction.",
+      "icon": "/images/services/ui-ux.svg"
+    },
+    {
+      "id": 2,
+      "name": "Website development",
+      "description": "Transforming a design into a fully functional, high-performance website that combines aesthetics and usability.",
+      "icon": "/images/services/website.svg"
+    },
+    {
+      "id": 3,
+      "name": "Mobile development",
+      "description": "Creating mobile applications that seamlessly merge design concepts into user-friendly, high-performance experiences.",
+      "icon": "/images/services/mobile-apps.svg"
+    }
+  ]
+}

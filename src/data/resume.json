@@ -1,0 +1,140 @@
+{
+  "resume": {
+    "title": "Resume",
+    "description": "Experience and Background",
+    "contents": [
+      {
+        "id": 1,
+        "title": "Work Experience",
+        "contents": [
+          {
+            "id": 7,
+            "timestamp": "June 2024 - Present",
+            "name": "Collabera Digital",
+            "info": "Fullstack Engineer",
+            "description": "The role is responsible for designing and developing intuitive and responsive user interfaces for mobile applications using Expo.  Work closely with design and backend teams to ensure smooth integration of features, leveraging TypeScript to enhance code reliability and scalability. With a strong focus on SharePoint SPFx for custom web parts and Azure DevOps for continuous integration and delivery, playing a key role in building high-quality, efficient, and user-centric solutions across both mobile and web platforms",
+            "list": [
+              {
+                "id": 1,
+                "name": "CebuPacific",
+                "url": "https://www.cebupacificair.com/en-PH/"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "timestamp": "October 2023 - May 2024",
+            "name": "Undertech",
+            "info": "Freelance Frontend Developer",
+            "description": "The role is responsible for crafting and implementing visually captivating and user-friendly interfaces for both web and mobile platforms within the context of a betting website. Collaborating closely with design and backend development teams, the candidate will spearhead the creation of high-quality frontend solutions. Leveraging NEXT.js and Tailwind CSS for web interface development, they will ensure seamless coordination with backend systems to deliver a compelling and optimized user experience",
+            "list": [
+              {
+                "id": 1,
+                "name": "Mangobet",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "timestamp": "November 2022 - September 2023",
+            "name": "Fitness and Lifestyle Group",
+            "info": "Frontend Developer",
+            "description": "The role is responsible for creating and implementing visually appealing and intuitive user interfaces for their web and mobile applications. They collaborate closely with their design and backend development teams to deliver high-quality frontend solutions",
+            "list": [
+              {
+                "id": 1,
+                "name": "Goodlife",
+                "url": "https://www.goodlife.com.au/"
+              },
+              {
+                "id": 2,
+                "name": "FitnessFirst",
+                "url": "https://join.fitnessfirst.com.au/"
+              },
+              {
+                "id": 3,
+                "name": "Jetts Fitness",
+                "url": "https://jetts.com.au/"
+              },
+              {
+                "id": 4,
+                "name": "Zap Fitness",
+                "url": "https://www.zapfitness.com.au/"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "timestamp": "November 2021 - November 2022",
+            "name": "Cloud Panda",
+            "info": "Software Engineer I",
+            "description": "The role is responsible for designing, coding and modifying applications from layouts to function and according to a client’s specifications. Candidates must specialize in mobile technology such as building apps for Google Android and Apple IOS",
+            "list": [
+              {
+                "id": 1,
+                "name": "Toktok Mobile App",
+                "url": "https://toktok.ph/"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "timestamp": "April 2020 - October 2021",
+            "name": "Genius Giant Company",
+            "info": "Mobile App Developer",
+            "description": "Responsible for the design and implementation of user interfaces (UIs) and UI components usingReact, a front-end JavaScript library. They develop and maintain UIs for web and mobile apps. They must have high-level expertise using React and a deep understanding of all stages of the software development life cycle. They write, test, debug, and implement code to meet user requirements. React developers need to have good communication skills as they work closely with project managers, developers, clients, testers, and web designers to create effective applications. They should have significant experience using JavaScript or Typescript, strong math skills, and a good working knowledge of debugging tools",
+            "list": [
+              {
+                "id": 1,
+                "name": "REPITSOCIAL",
+                "url": "https://repitsocial.com/"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "timestamp": "October 2019 - March 2020",
+            "name": "Boomsourcing Company",
+            "info": "Junior Developer",
+            "description": "Responsible for developing and implementing user interface components using React.js concepts and workflows such as Redux, Flux, and Webpack.",
+            "list": [
+              {
+                "id": 1,
+                "name": "HandRaiser App",
+                "url": "https://github.com/Handraiser-Group-Project-Team-4/handraiser-project"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Educational Level",
+        "contents": [
+          {
+            "id": 1,
+            "timestamp": "2005 - 2011",
+            "name": "Puro, Elementary School",
+            "info": "Primary Education",
+            "description": "Our vision is to foster a nurturing and inclusive learning environment where every child is empowered to explore their full potential, develop a lifelong love for learning, and become responsible, compassionate, and creative global citizens"
+          },
+          {
+            "id": 2,
+            "timestamp": "2011 - 2015",
+            "name": "Oro Site High School",
+            "info": "Secondary Education",
+            "description": "An educational institution in the heart of Legazpi City, Albay, motivated to AIM HIGH."
+          },
+          {
+            "id": 3,
+            "timestamp": "2015 - 2019",
+            "name": "Forbes College",
+            "info": "College",
+            "description": "Forbes College is a private educational institution that offers K-12  new basic education program and CHED accredited course program in Legazpi, Albay. It has branch campus located in Rizal Streets, Legazpi City. "
+          }
+        ]
+      }
+    ]
+  }
+}
