@@ -5,7 +5,7 @@ import Skill from "@/components/sections/skill";
 import Resume from "@/components/sections/resume";
 import Projects from "@/components/sections/projects";
 import Contact from "@/components/sections/contact";
-import useFaviconThemeSync from "./hooks/useFavIconTheme";
+import useFaviconThemeSync from "@/hooks/useFavIconTheme";
 
 function App() {
   useFaviconThemeSync();
