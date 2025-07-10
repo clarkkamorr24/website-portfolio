@@ -1,4 +1,5 @@
 import type { ProjectItem } from "@/types/project";
+import ZoomableImage from "@/components/zoomable-image";
 
 type AppProjectProps = {
   project: ProjectItem;
@@ -15,11 +16,11 @@ export default function AppProject({ project }: AppProjectProps) {
         </a>
         <p className="text-gray text-xs">{project.stack}</p>
       </div>
-      <div className="shadow-xl">
-        <img
+      <div className="max-h-[200px] shadow-xl">
+        <ZoomableImage
           src={project.image}
           alt={project.name}
-          className="translate-y-5 transform transition duration-300 hover:translate-y-0"
+          className="translate-y-5 transform cursor-pointer transition duration-300 hover:translate-y-0"
         />
       </div>
     </div>

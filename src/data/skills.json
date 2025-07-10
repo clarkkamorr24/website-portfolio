@@ -17,67 +17,87 @@
     },
     {
       "id": 4,
-      "name": "Node JS",
-      "icon": "/images/skills/node.svg"
-    },
-    {
-      "id": 5,
-      "name": "TailwindCSS",
-      "icon": "/images/skills/tailwind.svg"
-    },
-    {
-      "id": 6,
-      "name": "React JS",
-      "icon": "/images/skills/reactjs.svg"
-    },
-    {
-      "id": 7,
-      "name": "React Native",
-      "icon": "/images/skills/reactjs.svg"
-    },
-    {
-      "id": 8,
-      "name": "Next JS",
-      "icon": "/images/skills/nextjs.svg"
-    },
-    {
-      "id": 9,
       "name": "Typescript",
       "icon": "/images/skills/typescript.svg"
     },
     {
-      "id": 10,
-      "name": "Graphql",
-      "icon": "/images/skills/graphql.svg"
+      "id": 5,
+      "name": "React JS",
+      "icon": "/images/skills/reactjs.svg"
     },
     {
-      "id": 11,
+      "id": 6,
+      "name": "React Native",
+      "icon": "/images/skills/reactjs.svg"
+    },
+    {
+      "id": 7,
+      "name": "Next JS",
+      "icon": "/images/skills/nextjs.svg"
+    },
+    {
+      "id": 8,
+      "name": "Angular",
+      "icon": "/images/skills/angular.svg"
+    },
+    {
+      "id": 9,
+      "name": "Tailwind CSS",
+      "icon": "/images/skills/tailwind.svg"
+    },
+    {
+      "id": 10,
       "name": "Storybook",
       "icon": "/images/skills/storybook.svg"
     },
     {
+      "id": 11,
+      "name": "Node JS",
+      "icon": "/images/skills/node.svg"
+    },
+    {
       "id": 12,
+      "name": "GraphQL",
+      "icon": "/images/skills/graphql.svg"
+    },
+    {
+      "id": 13,
+      "name": "MySQL",
+      "icon": "/images/skills/mysql.svg"
+    },
+    {
+      "id": 14,
+      "name": "PostgreSQL",
+      "icon": "/images/skills/postgresql.svg"
+    },
+    {
+      "id": 15,
+      "name": "Docker",
+      "icon": "/images/skills/docker.svg"
+    },
+    {
+      "id": 16,
       "name": "Git",
       "icon": "/images/skills/git.svg"
     },
     {
-      "id": 13,
-      "name": "Github",
+      "id": 17,
+      "name": "GitHub",
       "icon": "/images/skills/github.svg"
     },
     {
-      "id": 14,
+      "id": 18,
       "name": "Bitbucket",
       "icon": "/images/skills/bitbucket.svg"
     },
     {
-      "id": 15,
+      "id": 19,
       "name": "Jira",
       "icon": "/images/skills/jira.svg"
     },
     {
-      "id": 16,
-      "name": "Vscode",
+      "id": 20,
+      "name": "VSCode",
       "icon": "/images/skills/vscode.svg"
     }
   ]

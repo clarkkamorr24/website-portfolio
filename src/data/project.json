@@ -13,6 +13,30 @@
       },
       {
         "id": 2,
+        "image": "/images/project/iamcebv4.png",
+        "name": "IamCebV4",
+        "stack": "Angular, Angularv2, Bootstrap, Typescript, Javascript, Sharepoint",
+        "category": "Work",
+        "url": ""
+      },
+      {
+        "id": 3,
+        "image": "/images/project/cebgo.png",
+        "name": "Cebgo",
+        "stack": "Angular, Angularv2, Bootstrap, Typescript, Javascript, Sharepoint",
+        "category": "Work",
+        "url": ""
+      },
+      {
+        "id": 4,
+        "image": "/images/project/1av.png",
+        "name": "1av",
+        "stack": "Angular, Angularv2, Bootstrap, Typescript, Javascript, Sharepoint",
+        "category": "Work",
+        "url": ""
+      },
+      {
+        "id": 5,
         "image": "/images/project/repitsocial.png",
         "name": "REPIT SOCIAL",
         "stack": "React Native, Node JS, AWS, PHP, Laravel",
@@ -20,7 +44,7 @@
         "url": "https://repitsocial.com/"
       },
       {
-        "id": 3,
+        "id": 6,
         "image": "/images/project/toktokbills.png",
         "name": "Toktok Bills Module",
         "stack": "React Native, Node JS, Typescript, GraphQL",
@@ -28,7 +52,7 @@
         "url": "https://toktok.ph/products#pr-bills"
       },
       {
-        "id": 4,
+        "id": 7,
         "image": "/images/project/toktokload.png",
         "name": "Toktok Load Module",
         "stack": "React Native, Node JS, Typescript, GraphQL",
@@ -36,7 +60,7 @@
         "url": "https://toktok.ph/products#pr-load"
       },
       {
-        "id": 5,
+        "id": 8,
         "image": "/images/project/handraiser.png",
         "name": "Handraiser / Group Projects",
         "stack": "React JS, ExpressJs, Docker, Postgres, Node JS, Socket.IO, Material UI",
@@ -44,7 +68,7 @@
         "url": "https://github.com/Handraiser-Group-Project-Team-4/handraiser-project/tree/master"
       },
       {
-        "id": 6,
+        "id": 9,
         "image": "/images/project/goodlife.png",
         "name": "Goodlife",
         "stack": "React Native, React JS, Next JS, Node JS, Contentful CMS, Storybook, GraphQL, Typescript",
@@ -52,7 +76,7 @@
         "url": "https://www.goodlife.com.au/"
       },
       {
-        "id": 7,
+        "id": 10,
         "image": "/images/project/fitnessfirst.png",
         "name": "Fitness First",
         "stack": "React Native, React JS, Next JS, Node JS, Contentful CMS, Storybook, GraphQL, Typescript",
@@ -60,7 +84,7 @@
         "url": "https://join.fitnessfirst.com.au/"
       },
       {
-        "id": 8,
+        "id": 11,
         "image": "/images/project/evento.png",
         "name": "Evento",
         "stack": "Next JS, TailwindCSS, Typescript, Prisma, PostgreSQL",
@@ -68,7 +92,7 @@
         "url": "https://evento-proj.vercel.app/"
       },
       {
-        "id": 9,
+        "id": 12,
         "image": "/images/project/petsoft.png",
         "name": "PetSoft",
         "stack": "Next JS, TailwindCSS, Typescript, Prisma, PostgreSQL, Stripe, React-hook-form, Zod",

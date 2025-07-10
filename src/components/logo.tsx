@@ -20,7 +20,6 @@ export default function Logo() {
 
     setResolvedTheme(getResolved());
 
-    // Optional: listen to system theme changes
     if (theme === "system") {
       const media = window.matchMedia("(prefers-color-scheme: dark)");
       const handler = (e: MediaQueryListEvent) => {
