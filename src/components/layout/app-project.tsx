@@ -9,7 +9,12 @@ export default function AppProject({ project }: AppProjectProps) {
   return (
     <div className="border-light-gray bg-background overflow-hidden rounded-lg border px-4 pt-6 text-center">
       <div className="mb-3">
-        <a href={project.url} target="_blank" rel="noopener noreferrer">
+        <a
+          href={project.url || undefined}
+          target={project.url ? "_blank" : undefined}
+          rel={project.url ? "noopener noreferrer" : undefined}
+          className="cursor-pointer"
+        >
           <h3 className="hover:text-primary text-primary text-base font-semibold transition duration-300 lg:text-xl">
             {project.name}
           </h3>

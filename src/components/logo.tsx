@@ -31,13 +31,13 @@ export default function Logo() {
   }, [theme]);
 
   return (
-    <div className="flex items-center">
+    <a className="flex items-center" href="/">
       <img
         src={resolvedTheme === "dark" ? logoWhite : logoBlack}
         alt="logo"
         height={40}
         width={40}
       />
-    </div>
+    </a>
   );
 }
