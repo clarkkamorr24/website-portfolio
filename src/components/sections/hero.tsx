@@ -39,7 +39,7 @@ export default function Hero() {
             </h2>
             <a
               download
-              href="/AMOR-CLARK-RESUME.pdf"
+              href="/RESUME.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
